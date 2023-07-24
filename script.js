@@ -42,3 +42,5 @@ searchBtn.addEventListener("click", ()=>{
     checkWeather(searchBox.value);
 
 })
+
+// https://openweathermap.org/api = weather API
